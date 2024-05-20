@@ -110,7 +110,6 @@ pydotplus==2.0.2
 Pygments==2.11.1
 pyparsing==2.4.7
 pyrsistent==0.18.1
-pysb==1.9.1
 pysolr==3.9.0
 pystow==0.2.8
 python-dateutil==2.8.2
