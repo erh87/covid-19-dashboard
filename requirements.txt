@@ -82,7 +82,7 @@ nest-asyncio==1.5.4
 networkx==2.6.3
 notebook==6.4.7
 numexpr==2.7.3
-numpy==1.16.2
+numpy==1.16.6
 objectpath==0.6.1
 obonet==0.3.0
 osqp==0.6.2.post0
