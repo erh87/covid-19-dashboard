@@ -85,8 +85,6 @@ numexpr==2.7.3
 numpy==1.16.2
 objectpath==0.6.1
 obonet==0.3.0
-openpyxl==3.0.9
-ortools==9.0.9048
 osqp==0.6.2.post0
 packaging==21.3
 pandas==1.2.5
