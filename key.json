@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dimensions-covid-422519",
+  "private_key_id": "f3c50b0e70054e38fa30b5b7339293d5ad91e43f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDqQmmFRUgB7ADi\nhSTzYChi3GiG77VL4dJXfhkzAvDl6udupcXj7yBSZLP8Q12xPq108twleBhnXGHH\ngCUA/8s9vp2JHHQTqam1m25dvChLlz3DlUoeV1wfefO4jos/lpiP3GPGSecoyv52\nZpszSWMdb1QnGd3SMOVCo5iUjI1dDx/U8aFZ7AH0dhqkFwMUKMC4LUtDoA3t0SPl\n4041kE7wOBRn0RJpuseFVlgqMOwTXiKPAizPdT3/nbDJg1AM2IDc7VLv+Z7vMRFQ\nm5W3j1xGTVSvbU/EO2cL4WJ/avobKPrDY+23V/jaMfZoBu9Iu7qLb2efl/RrpJ2F\nU1l0beOfAgMBAAECggEAJKAujFIpMHe8Ka5keRK7Lb3FL/exckRD1T8XZITcsi3Y\nclHDz1/XP1qUU2ga8XfZudOwvMD6m8pzVTRBVNcpaSVwzvueYGah7I15I3mkGTFz\nzCz+siC5fAhepSfQOKhsgO2Vwe5TEGswfsWLFWkvcG40C4r9Rfw0FAes9ujEv1wt\n5IUR8IksAMwv8PWB58iExA4zfJaRmtZB0RgMjkSf3qBpqA+jmU5+tPwQVg5LTE7r\nYC9h1YrLU1lXDjyPoQrCl9WhZxOVWTEwnHH7unkLc0c9gI3Hq4fHLwhpBMpV8Ds0\nS+k7xCKCBD+2DeUDMFbT7rHUa8c0LAyJh2sChbhLwQKBgQD7sRZz3fAm9+S//xOF\nUnUj51za2ztQk4pBbr4Rx0DX0SHIPmOPfDu+PmsoAglgoyCbv5ygZznSFzBrMXHr\nZHXAEQR6f+MyjqfuixC5r7Sua7jGsfOXi2RO32WqzZ86Sm9mxtqEBy7MgG9yM/uq\n8jW89xcT2owDbrwtx4n1bCoM3wKBgQDuRO+kBNgaJbMNPXSl1iDHj8s3YwIPWlr0\nnr+ox3lsONnnXSzPni6GRfADuDWzrD8u9ppTtSFNzGcqZZjZGzQBINmcmHy/bhN9\njFONgbHukTJ1vFWzCuVK5XN1garm44wBnS8doJBanWYRST3Ll+TcbMngk9/u26Ln\nV3AsgwRBQQKBgBA24llojNYV1jjAOAO4wi8j8olu4i1Ys+lvNvNyQK0mneSGkGdn\n+3lQEBsttmjxWWJvP6ndvI3aTJY7QzmE6UkMT5uMrZhONGdbsiIkPaGW8vpp8GVs\n53NlVOliAcYBkZeva9hhlhQ6mfNjge0LWYbo7CWtSKPX+GuClVKoOzVFAoGBAJkS\nUn4l2otZwuDzpVfQ67gpKd3ITo98dciHoAuXMuuSznKzylELh0od7icFlgJ62xCZ\nvuWeDOpFMdXr9TktH8jFyOewkxwMZJsYpqjXNG9Wentm5gujKVFnfTh1eEzizJRQ\n3e8Dsxlz2xmp2vhL+eyeO0d62LdEBTDoXJlMBlTBAoGBAOpFhr2j3kAA3PkWpYGP\nQ+xdGFE9DXtt+TUikU0U2ezYXhmWu3hQQpDea/xoeUMAb8sDlZW+iNEysEqB+GjH\n0XYwg9P5mY74z0o+pSbfJmmOz045YegJijy8rNyGo6nTlIIxO03uW3IwPa4UhHTS\n5Le6lVbYgLRNh5yLNkMxkPU1\n-----END PRIVATE KEY-----\n",
+  "client_email": "emileeholtzapple@dimensions-covid-422519.iam.gserviceaccount.com",
+  "client_id": "106672928974025918204",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/emileeholtzapple%40dimensions-covid-422519.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

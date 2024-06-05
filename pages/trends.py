@@ -36,7 +36,16 @@ fig4 = px.bar(trends_2023[:25],x="MeSH heading",y="Publication count", title="Po
 
 layout = html.Div([
 	html.H1(children='Trends in COVID-19 Research', style = {'textAlign':'Center'}),
-	dcc.Graph(
+    dcc.Graph(
         id='sub1',
-        figure=fig1, style={'margin-left':'7px', 'margin-top':'7px'})
+        figure=fig1, style={'margin-left':'7px', 'margin-top':'7px'}),
+    dcc.Graph(
+        id='sub2',
+        figure=fig2, style={'margin-left':'7px', 'margin-top':'7px'}),
+    dcc.Graph(
+        id='sub3',
+        figure=fig3, style={'margin-left':'7px', 'margin-top':'7px'}),
+    dcc.Graph(
+        id='sub4',
+        figure=fig4, style={'margin-left':'7px', 'margin-top':'7px'}) 
 	])

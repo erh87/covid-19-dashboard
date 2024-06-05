@@ -21,7 +21,6 @@ df_pubs= run_query(pub_QUERY)
 
 df_by_auth = df_pubs.dropna(subset=['researcher_id']).groupby("researcher_id")["score"].sum()
 
-print(df_by_auth)
 df_by_auth= df_by_auth.sort_values(ascending=False)
 top_auths = list(df_by_auth.iloc[:15].index)
 
@@ -29,11 +28,9 @@ top_pubs = df_pubs[df_pubs['researcher_id'].isin(top_auths)]
 
 top_5 = pd.DataFrame(df_pubs.preferred.unique())
 
-auth_names = [x + " " + y for x,y in zip(top_pubs["first_name"],top_pubs["last_name"])]
-
 fig=px.bar(top_pubs,x="researcher_id",y="score",color="preferred",color_discrete_sequence=px.colors.qualitative.Alphabet)
 fig.update_layout(xaxis_title="Researcher", yaxis_title="Altmetric Score", showlegend=False,xaxis={'categoryorder':'total descending'})
-fig.update_xaxes(tickvals=np.arange(15), ticktext=auth_names)
+fig.update_xaxes(tickvals=np.arange(15))
 
 layout = html.Div([
     html.H1(children='Influential researchers', style = {'textAlign':'Center','margin-left':'7px', 'margin-top':'7px'}),

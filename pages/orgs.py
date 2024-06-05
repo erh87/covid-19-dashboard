@@ -49,12 +49,12 @@ content = html.Div(id="page", style=content_style)
 df_res = df_res.rename({'t':"Institution type",'c':"Papers published"},axis=1)
 df_all = df_all.rename({'t':"Institution type",'c':"Papers published"},axis=1)
 
-df_coords = pd.merge(df_res,inst_coor,how="outer")
-pub_count = list(df_coords["Papers published"])
+df_coords = pd.merge(df_res,inst_coor,how="outer").dropna(how="any")
+df_coords["Papers published"] = df_coords["Papers published"].astype(np.int64)
 
 
 fig = px.scatter_geo(df_coords, lat="lat_coor", lon="lon_coor",color="Institution type",
-                     hover_name="Institution", size=pub_count,
+                     hover_name="Institution", size="Papers published",
                      projection="natural earth")    
 
 layout = html.Div([content,
