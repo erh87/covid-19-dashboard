@@ -1,0 +1,101 @@
+Institution,Country,City,t,c
+Harvard University,United States,Cambridge,"[""Education""]",25137
+University of Toronto,Canada,Toronto,"[""Education""]",15931
+University of Oxford,United Kingdom,Oxford,"[""Education""]",14679
+University College London,United Kingdom,London,"[""Education""]",14461
+Johns Hopkins University,United States,Baltimore,"[""Education""]",14212
+University of Washington,United States,Seattle,"[""Education""]",11979
+Stanford University,United States,Stanford,"[""Education""]",11214
+Universidade de São Paulo,Brazil,São Paulo,"[""Education""]",10852
+University of Michigan–Ann Arbor,United States,Ann Arbor,"[""Education""]",10624
+Imperial College London,United Kingdom,London,"[""Education""]",10448
+University of Melbourne,Australia,Melbourne,"[""Education""]",10419
+University of Pennsylvania,United States,Philadelphia,"[""Education""]",10341
+"University of California, San Francisco",United States,San Francisco,"[""Education""]",10027
+Yale University,United States,New Haven,"[""Education""]",9791
+King's College London,United Kingdom,London,"[""Education""]",9495
+University of British Columbia,Canada,Vancouver,"[""Education""]",9096
+The University of Sydney,Australia,Sydney,"[""Education""]",9068
+Monash University,Australia,Melbourne,"[""Education""]",9001
+Massachusetts General Hospital,United States,Boston,"[""Healthcare""]",8701
+"University of California, Los Angeles",United States,Los Angeles,"[""Education""]",8598
+Emory University,United States,Atlanta,"[""Education""]",7998
+University of Cambridge,United Kingdom,Cambridge,"[""Education""]",7995
+Columbia University,United States,New York,"[""Education""]",7741
+Cornell University,United States,Ithaca,"[""Education""]",7720
+UNSW Sydney,Australia,Sydney,"[""Education""]",7574
+New York University,United States,New York,"[""Education""]",7484
+Brigham and Women's Hospital,United States,Boston,"[""Healthcare""]",7429
+Sapienza University of Rome,Italy,Rome,"[""Education""]",7099
+"University of California, San Diego",United States,San Diego,"[""Education""]",6990
+Zhejiang University,China,Hangzhou,"[""Education""]",6941
+University of Queensland,Australia,Brisbane,"[""Education""]",6892
+Duke University,United States,Durham,"[""Education""]",6762
+London School of Hygiene & Tropical Medicine,United Kingdom,London,"[""Education""]",6755
+National University of Singapore,Singapore,Singapore,"[""Education""]",6707
+Shanghai Jiao Tong University,China,Shanghai,"[""Education""]",6566
+University of North Carolina at Chapel Hill,United States,Chapel Hill,"[""Education""]",6398
+University of Hong Kong,China,Hong Kong,"[""Education""]",6348
+University of Manchester,United Kingdom,Manchester,"[""Education""]",6325
+University of Florida,United States,Gainesville,"[""Education""]",6298
+University of Pittsburgh,United States,Pittsburgh,"[""Education""]",6296
+University of Edinburgh,United Kingdom,Edinburgh,"[""Education""]",6291
+University of Milan,Italy,Milan,"[""Education""]",6281
+Icahn School of Medicine at Mount Sinai,United States,New York,"[""Education""]",6269
+McGill University,Canada,Montreal,"[""Education""]",6256
+University of Minnesota,United States,Minneapolis,"[""Education""]",6225
+Mayo Clinic,United States,Rochester,"[""Healthcare""]",6195
+Northwestern University,United States,Evanston,"[""Education""]",6163
+Huazhong University of Science and Technology,China,Wuhan,"[""Education""]",6098
+Karolinska Institutet,Sweden,Stockholm,"[""Education""]",5938
+McMaster University,Canada,Hamilton,"[""Education""]",5838
+Boston University,United States,Boston,"[""Education""]",5809
+Washington University in St. Louis,United States,St Louis,"[""Education""]",5745
+King Saud University,Saudi Arabia,Riyadh,"[""Education""]",5714
+Tehran University of Medical Sciences,Iran,Tehran,"[""Education""]",5692
+University of Chinese Academy of Sciences,China,Beijing,"[""Education""]",5645
+Peking University,China,Beijing,"[""Education""]",5567
+The Ohio State University,United States,Columbus,"[""Education""]",5556
+University of Southern California,United States,Los Angeles,"[""Education""]",5556
+University of Alberta,Canada,Edmonton,"[""Education""]",5369
+"Rutgers, The State University of New Jersey",United States,New Brunswick,"[""Education""]",5323
+All India Institute of Medical Sciences,India,New Delhi,"[""Education""]",5292
+Fudan University,China,Shanghai,"[""Education""]",5248
+Pennsylvania State University,United States,State College,"[""Education""]",5234
+Sichuan University,China,Chengdu,"[""Education""]",5231
+University of Birmingham,United Kingdom,Birmingham,"[""Education""]",5207
+University of Ottawa,Canada,Ottawa,"[""Education""]",5160
+Sun Yat-sen University,China,Guangzhou,"[""Education""]",5094
+Tsinghua University,China,Beijing,"[""Education""]",5071
+University of Calgary,Canada,Calgary,"[""Education""]",5064
+University of Wisconsin–Madison,United States,Madison,"[""Education""]",4934
+University of Utah,United States,Salt Lake City,"[""Education""]",4900
+University of Liverpool,United Kingdom,Liverpool,"[""Education""]",4866
+University of Copenhagen,Denmark,Copenhagen,"[""Education""]",4857
+The University of Tokyo,Japan,Tokyo,"[""Education""]",4821
+KU Leuven,Belgium,Leuven,"[""Education""]",4745
+University of Naples Federico II,Italy,Naples,"[""Education""]",4728
+University of Chicago,United States,Chicago,"[""Education""]",4724
+Chinese University of Hong Kong,China,Hong Kong,"[""Education""]",4695
+University of Bristol,United Kingdom,Bristol,"[""Education""]",4693
+University of Padua,Italy,Padova,"[""Education""]",4669
+University of Bologna,Italy,Bologna,"[""Education""]",4663
+Charité - University Medicine Berlin,Germany,Berlin,"[""Healthcare""]",4579
+Hong Kong Polytechnic University,China,Hong Kong,"[""Education""]",4539
+Chinese Academy of Medical Sciences & Peking Union Medical College,China,Beijing,"[""Education""]",4424
+University of Nottingham,United Kingdom,Nottingham,"[""Education""]",4403
+University of Glasgow,United Kingdom,Glasgow,"[""Education""]",4374
+Brown University,United States,Providence,"[""Education""]",4356
+University of Colorado Anschutz Medical Campus,United States,Aurora,"[""Education""]",4348
+University of Amsterdam,Netherlands,Amsterdam,"[""Education""]",4343
+National and Kapodistrian University of Athens,Greece,Athens,"[""Education""]",4248
+King Abdulaziz University,Saudi Arabia,Jeddah,"[""Education""]",4165
+"University of California, Berkeley",United States,Berkeley,"[""Education""]",4149
+"University of California, Davis",United States,Davis,"[""Education""]",4144
+University of Leeds,United Kingdom,Leeds,"[""Education""]",4140
+Tel Aviv University,Israel,Tel Aviv,"[""Education""]",4111
+University of the Witwatersrand,South Africa,Johannesburg,"[""Education""]",4107
+Baylor College of Medicine,United States,Houston,"[""Education""]",4076
+University of Cape Town,South Africa,Rondebosch,"[""Education""]",4059
+University of Zurich,Switzerland,Zurich,"[""Education""]",4018
+Ludwig-Maximilians-Universität München,Germany,Munich,"[""Education""]",4010

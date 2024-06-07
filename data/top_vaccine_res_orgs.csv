@@ -1,0 +1,101 @@
+Institution,Country,City,t,c
+Harvard University,United States,Cambridge,"[""Education""]",673
+University of Oxford,United Kingdom,Oxford,"[""Education""]",461
+Johns Hopkins University,United States,Baltimore,"[""Education""]",431
+University College London,United Kingdom,London,"[""Education""]",338
+University of Washington,United States,Seattle,"[""Education""]",332
+University of Toronto,Canada,Toronto,"[""Education""]",330
+Yale University,United States,New Haven,"[""Education""]",304
+London School of Hygiene & Tropical Medicine,United Kingdom,London,"[""Education""]",301
+Emory University,United States,Atlanta,"[""Education""]",292
+Tel Aviv University,Israel,Tel Aviv,"[""Education""]",291
+University of Pennsylvania,United States,Philadelphia,"[""Education""]",284
+Imperial College London,United Kingdom,London,"[""Education""]",275
+University of Melbourne,Australia,Melbourne,"[""Education""]",261
+Centers for Disease Control and Prevention,United States,Atlanta,"[""Government""]",259
+Stanford University,United States,Stanford,"[""Education""]",249
+University of Hong Kong,China,Hong Kong,"[""Education""]",234
+Massachusetts General Hospital,United States,Boston,"[""Healthcare""]",232
+Brigham and Women's Hospital,United States,Boston,"[""Healthcare""]",221
+"University of California, Los Angeles",United States,Los Angeles,"[""Education""]",212
+"University of California, San Francisco",United States,San Francisco,"[""Education""]",204
+Mayo Clinic,United States,Rochester,"[""Healthcare""]",198
+University of Milan,Italy,Milan,"[""Education""]",191
+University of British Columbia,Canada,Vancouver,"[""Education""]",188
+Cornell University,United States,Ithaca,"[""Education""]",186
+University of Michigan–Ann Arbor,United States,Ann Arbor,"[""Education""]",186
+University of North Carolina at Chapel Hill,United States,Chapel Hill,"[""Education""]",176
+"University of California, San Diego",United States,San Diego,"[""Education""]",172
+Icahn School of Medicine at Mount Sinai,United States,New York,"[""Education""]",172
+National Institute of Allergy and Infectious Diseases,United States,Bethesda,"[""Government""]",170
+Chinese Academy of Medical Sciences & Peking Union Medical College,China,Beijing,"[""Education""]",165
+McMaster University,Canada,Hamilton,"[""Education""]",160
+Tehran University of Medical Sciences,Iran,Tehran,"[""Education""]",159
+New York University,United States,New York,"[""Education""]",158
+Sapienza University of Rome,Italy,Rome,"[""Education""]",153
+Columbia University,United States,New York,"[""Education""]",151
+King's College London,United Kingdom,London,"[""Education""]",150
+"University of Maryland, Baltimore",United States,Baltimore,"[""Education""]",149
+Vanderbilt University Medical Center,United States,Nashville,"[""Healthcare""]",149
+Monash University,Australia,Melbourne,"[""Education""]",149
+The University of Sydney,Australia,Sydney,"[""Education""]",148
+Washington University in St. Louis,United States,St Louis,"[""Education""]",148
+"Dr. D.Y. Patil Vidyapeeth, Pune",India,Pune,"[""Education""]",145
+University of Pittsburgh,United States,Pittsburgh,"[""Education""]",144
+UNSW Sydney,Australia,Sydney,"[""Education""]",142
+Fudan University,China,Shanghai,"[""Education""]",141
+University of Colorado Anschutz Medical Campus,United States,Aurora,"[""Education""]",140
+Baylor College of Medicine,United States,Houston,"[""Education""]",140
+National University of Singapore,Singapore,Singapore,"[""Education""]",139
+Universidade de São Paulo,Brazil,São Paulo,"[""Education""]",137
+Duke University,United States,Durham,"[""Education""]",135
+National and Kapodistrian University of Athens,Greece,Athens,"[""Education""]",130
+University of Cambridge,United Kingdom,Cambridge,"[""Education""]",127
+Kaiser Permanente,United States,Oakland,"[""Nonprofit""]",126
+Karolinska Institutet,Sweden,Stockholm,"[""Education""]",124
+University of Copenhagen,Denmark,Copenhagen,"[""Education""]",119
+University of Ottawa,Canada,Ottawa,"[""Education""]",119
+University of Edinburgh,United Kingdom,Edinburgh,"[""Education""]",118
+McGill University,Canada,Montreal,"[""Education""]",116
+University of Naples Federico II,Italy,Naples,"[""Education""]",116
+Chinese University of Hong Kong,China,Hong Kong,"[""Education""]",114
+Sheba Medical Center,Israel,Ramat Gan,"[""Healthcare""]",112
+University of Miami,United States,Coral Gables,"[""Education""]",112
+University of Alabama at Birmingham,United States,Birmingham,"[""Education""]",110
+Beth Israel Deaconess Medical Center,United States,Boston,"[""Healthcare""]",109
+University of Wisconsin–Madison,United States,Madison,"[""Education""]",108
+All India Institute of Medical Sciences,India,New Delhi,"[""Education""]",108
+Indiana University – Purdue University Indianapolis,United States,Indianapolis,"[""Education""]",108
+University of the Witwatersrand,South Africa,Johannesburg,"[""Education""]",107
+Northwestern University,United States,Evanston,"[""Education""]",107
+Medical University of Vienna,Austria,Vienna,"[""Education""]",107
+University of Zurich,Switzerland,Zurich,"[""Education""]",107
+University of Manchester,United Kingdom,Manchester,"[""Education""]",104
+German Center for Infection Research,Germany,Braunschweig,"[""Facility""]",104
+Inserm,France,Paris,"[""Government""]",102
+Boston Children's Hospital,United States,Boston,"[""Healthcare""]",101
+University of Utah,United States,Salt Lake City,"[""Education""]",101
+Oswaldo Cruz Foundation,Brazil,Rio de Janeiro,"[""Facility""]",100
+University of Minnesota,United States,Minneapolis,"[""Education""]",100
+University of Birmingham,United Kingdom,Birmingham,"[""Education""]",100
+Brown University,United States,Providence,"[""Education""]",100
+Charité - University Medicine Berlin,Germany,Berlin,"[""Healthcare""]",99
+University of Cape Town,South Africa,Rondebosch,"[""Education""]",99
+Peking University,China,Beijing,"[""Education""]",99
+University of Florida,United States,Gainesville,"[""Education""]",97
+University of Padua,Italy,Padova,"[""Education""]",97
+Boston University,United States,Boston,"[""Education""]",97
+National Institutes for Food and Drug Control,China,Beijing,"[""Government""]",96
+University of Amsterdam,Netherlands,Amsterdam,"[""Education""]",96
+Erasmus MC,Netherlands,Rotterdam,"[""Healthcare""]",93
+University of Bern,Switzerland,Bern,"[""Education""]",93
+University of Nottingham,United Kingdom,Nottingham,"[""Education""]",93
+Zhejiang University,China,Hangzhou,"[""Education""]",93
+Fred Hutch Cancer Center,United States,Seattle,"[""Nonprofit""]",93
+Shahid Beheshti University of Medical Sciences,Iran,Tehran,"[""Education""]",92
+Murdoch Children's Research Institute,Australia,Melbourne,"[""Nonprofit""]",92
+University of Calgary,Canada,Calgary,"[""Education""]",91
+Hebrew University of Jerusalem,Israel,Jerusalem,"[""Education""]",91
+The Ohio State University,United States,Columbus,"[""Education""]",90
+Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,Italy,Milan,"[""Healthcare""]",90
+Mahidol University,Thailand,Bangkok,"[""Education""]",89
