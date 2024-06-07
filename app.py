@@ -82,8 +82,6 @@ def main():
 	trends_2020,trends_2021,trends_2022,trends_2023 = trendsYearly()
 	pubs_df,top_5=topPubs()
 
-	print("made it")
-
 	scatter_fig = px.scatter_geo(df_coords, lat="lat_coor", lon="lon_coor",color="Institution type",
 		hover_name="Institution", size="Papers published",
 		projection="natural earth")
